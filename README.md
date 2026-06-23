@@ -1,6 +1,6 @@
 # Lista 05 - Interface de gerenciamento de extensões do navegador
 
-![Prévia do design para o desafio de codificação da Interface de gerenciamento de extensões do navegador](./preview.jpg)
+<img width="1440" height="1056" alt="image" src="https://github.com/user-attachments/assets/9b1cbddd-72f9-4507-b2bf-11e9f10a569b" />
 
 ## Instruções! 👋
 
