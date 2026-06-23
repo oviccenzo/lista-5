@@ -12,7 +12,7 @@ Seu desafio é construir esta interface de gerenciamento de extensões do navega
 
 Você pode usar qualquer ferramenta que quiser para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-Acesse o repositório [Lista 05](https://github.com/andreluizfrancabatista/browser-extensions-manager-ui) para ter acesso aos artefatos referente a essa atividade. 
+https://github.com/andreluizfrancabatista/browser-extensions-manager-ui/raw/main/preview.jpg
 
 Os dados para as extensões estão disponíveis em um arquivo local `data.json`. Assim, você pode usar isso para adicionar os dados dinamicamente, se assim desejar.
 
