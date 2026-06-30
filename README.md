@@ -62,3 +62,4 @@ Recomendo fortemente substituir este `README.md` por um personalizado com inform
 - O repositório deve conter todos os arquivos (HTML, CSS, JS).
 
 **Divirta-se construindo!** 🚀
+O link do acesso é http://127.0.0.1:5500/trabalho_5/index.html
